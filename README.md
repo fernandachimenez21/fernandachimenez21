@@ -5,7 +5,7 @@
 <h4><p align="center">Meu nome é Fernanda Chimenez e eu sou estudante de análise e desenvolvimento de sistemas 💻 </p></h4>
 
 Me segue aqui: <br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fernanda-chimenez-leme/)](https://www.linkedin.com/in/renato-rebou%C3%A7as-9bb008132/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fernanda-chimenez-leme/)](https://www.linkedin.com/in/fernanda-chimenez-leme/) 
 <br>
 <a href="https://www.instagram.com/nanda.chimenez/"><img src="https://github.com/fernandachimenez21/fernandachimenez21/blob/main/instagram.png" width="16"></a> [Instagram](https://www.instagram.com/nanda.chimenez/)  
 

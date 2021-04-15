@@ -29,7 +29,7 @@
 ![](https://komarev.com/ghpvc/?username=fernandachimenez21&color=blue&style=flat)
 
 <div style="display: inline_block"><br>
-  <img align="left" alt="Iron" src="https://media.giphy.com/media/11e56tPCqD9kjK/giphy.gif">
+  <img align="left" alt="Pikachu" src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif">
 </div> <br><br> 
 
 

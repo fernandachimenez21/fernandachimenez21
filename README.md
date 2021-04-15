@@ -6,8 +6,8 @@
 
  <div>
   <a href="https://github.com/fernandachimenez21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandachimenez21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandachimenez21&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandachimenez21&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandachimenez21&layout=compact&langs_count=8&theme=outrun"/>
 <div>
   <div>
   <a href = "mailto: fchimenezleme@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

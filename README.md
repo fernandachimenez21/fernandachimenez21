@@ -4,10 +4,6 @@
 
 <h4><p align="center">Meu nome é Fernanda Chimenez e eu sou estudante de análise e desenvolvimento de sistemas 💻 </p></h4><br>
 
-<div style="display: inline_block"><br>
-  <img align="left" alt="Iron" src="https://media.giphy.com/media/11e56tPCqD9kjK/giphy.gif">
-</div> <br> <br> 
-
  <div>
   <a href="https://github.com/fernandachimenez21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandachimenez21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -31,5 +27,11 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) <br><br>
 
 ![](https://komarev.com/ghpvc/?username=fernandachimenez21&color=blue&style=flat)
+
+<div style="display: inline_block"><br>
+  <img align="left" alt="Iron" src="https://media.giphy.com/media/11e56tPCqD9kjK/giphy.gif">
+</div> <br><br> 
+
+
 
 

@@ -21,7 +21,8 @@ Me segue aqui: <br>
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) <br><br>
 
+![](https://komarev.com/ghpvc/?username=fernandachimenez21&color=blue&style=flat)
 
 

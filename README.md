@@ -1,17 +1,24 @@
 ![capa github](https://github.com/fernandachimenez21/fernandachimenez21/blob/main/capa.png)  
 
-### Hello world 🌎 👋
+## Hello world 🌎 👋
 
-<h4><p align="center">Meu nome é Fernanda Chimenez e eu sou estudante de análise e desenvolvimento de sistemas 💻 </p></h4>
+<h4><p align="center">Meu nome é Fernanda Chimenez e eu sou estudante de análise e desenvolvimento de sistemas 💻 </p></h4><br>
 
-Me segue aqui: <br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fernanda-chimenez-leme/)](https://www.linkedin.com/in/fernanda-chimenez-leme/) 
-<br>
-<a href="https://www.instagram.com/nanda.chimenez/"><img src="https://github.com/fernandachimenez21/fernandachimenez21/blob/main/instagram.png" width="16"></a> [Instagram](https://www.instagram.com/nanda.chimenez/)  
+<div style="display: inline_block"><br>
+  <img align="left" alt="Iron" src="https://media.giphy.com/media/11e56tPCqD9kjK/giphy.gif">
+</div> <br> <br> 
 
+ <div>
+  <a href="https://github.com/fernandachimenez21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandachimenez21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandachimenez21&layout=compact&langs_count=8&theme=dracula"/>
+<div>
+  <div>
+  <a href = "mailto: fchimenezleme@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fernanda-chimenez-leme/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/nanda.chimenez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
-![Fernanda Chimenez github stats](https://github-readme-stats.vercel.app/api?username=fernandachimenez21&show_icons=true&theme=tokyonight")
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandachimenez21&layout=compact&theme=tokyonight")
 
 ## 👾 Tecnologias:
 

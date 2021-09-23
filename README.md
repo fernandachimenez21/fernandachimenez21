@@ -1,5 +1,5 @@
 
-## Hello Stranger you can call me Fernanda!
+## Hello stranger you can call me Fernanda!
 
  <div>
   <a href="https://github.com/fernandachimenez21">
